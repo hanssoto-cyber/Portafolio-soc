@@ -1,5 +1,3 @@
-# Portafolio-soc.github.io
-[index.html](https://github.com/user-attachments/files/27975769/index.html)
 <!DOCTYPE html>
 <html lang="es">
 <head>
