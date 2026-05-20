@@ -62,7 +62,7 @@ Técnico en Telecomunicaciones con más de 10 años de experiencia en soporte TI
 
 - ✉️ hans.soto.g@gmail.com
 - 📱 +56 9 3569 7397
-- 🔗 [linkedin.com/in/hans-soto](https://linkedin.com/in/hans-soto)
+- 🔗 [linkedin.com/in/hans-soto](https://www.linkedin.com/in/hans-soto-gonzalez-a142b8170/)
 - 📍 Santiago, Chile
 
 ---
