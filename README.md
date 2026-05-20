@@ -21,7 +21,7 @@ Técnico en Telecomunicaciones con más de 10 años de experiencia en soporte TI
 |---|---|---|---|
 | [Lab 01](./lab-01-siem-elk/) | Detección de Port Scan con SIEM ELK Stack | ELK 8.19, Filebeat, Nmap, Wireshark | ✅ Completo |
 | [Lab 02](./lab-02-conmutacion-redes/) | Examen Final: Conmutación de Redes | Cisco IOS, OSPFv2/v3, NAT, VLANs, ACL | ✅ Completo |
-| Lab 03 | Hardening de Sistemas | Windows Server, Active Directory, GPO | 🔄 En progreso |
+| [Lab 03](./lab-03-administracion-sistemas/) | Hardening de Sistemas | Windows Server, Active Directory, GPO | 🔄 En progreso |
 
 ---
 
