@@ -244,4 +244,4 @@ lab-03-administracion-sistemas/
 ---
 
 *Hans Soto González · IPLACEX · Ingeniería en Ciberseguridad · 2025*  
-*[linkedin.com/in/hans-soto](https://linkedin.com/in/hans-soto) · [Portafolio](https://github.com/hanssoto-cyber/Portafolio-soc)*
+*[linkedin.com/in/hans-soto](https://www.linkedin.com/in/hans-soto-gonzalez-a142b8170) · [Portafolio](https://github.com/hanssoto-cyber/Portafolio-soc)*
