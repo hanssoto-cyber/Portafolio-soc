@@ -67,4 +67,4 @@ Técnico en Telecomunicaciones con más de 10 años de experiencia en soporte TI
 
 ---
 
-*Disponible para posiciones SOC L1, Blue Team o soporte de seguridad.*Readme
+*Disponible para posiciones SOC L1, Blue Team o soporte de seguridad.
