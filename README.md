@@ -9,7 +9,7 @@
 
 ## Sobre mí
 
-Técnico en Telecomunicaciones con más de 10 años de experiencia en soporte TI, actualmente cursando Ingeniería en Ciberseguridad en IPLACEX. Especializado en operaciones de seguridad defensiva (Blue Team) con experiencia práctica en SIEM, análisis de logs, detección de amenazas y respuesta a incidentes bajo el marco NIST SP 800-61r2.
+Técnico en Telecomunicaciones con más de 6 años de experiencia en soporte TI, actualmente cursando Ingeniería en Ciberseguridad en IPLACEX. Especializado en operaciones de seguridad defensiva (Blue Team) con experiencia práctica en SIEM, análisis de logs, detección de amenazas y respuesta a incidentes bajo el marco NIST SP 800-61r2.
 
 **Orientado a roles:** SOC L1 · Blue Team · Soporte de Seguridad · Santiago, Chile
 
@@ -21,7 +21,7 @@ Técnico en Telecomunicaciones con más de 10 años de experiencia en soporte TI
 |---|---|---|---|
 | [Lab 01](./lab-01-siem-elk/) | Detección de Port Scan con SIEM ELK Stack | ELK 8.19, Filebeat, Nmap, Wireshark | ✅ Completo |
 | [Lab 02](./lab-02-conmutacion-redes/) | Examen Final: Conmutación de Redes | Cisco IOS, OSPFv2/v3, NAT, VLANs, ACL | ✅ Completo |
-| [Lab 03](./lab-03-administracion-sistemas/) | Administración de Sistemas y Hardening | Windows Server 2016, Red Hat Linux, AD, DHCP, DNS | ✅ En progreso |
+| [Lab 03](./lab-03-administracion-sistemas/) | Administración de Sistemas y Hardening | Windows Server 2016, Red Hat Linux, AD, DHCP, DNS | ✅ Completo |
 
 ---
 
