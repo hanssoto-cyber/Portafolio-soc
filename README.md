@@ -3,6 +3,7 @@
 > **Analista SOC L1 en Formación · Ingeniería en Ciberseguridad · IPLACEX**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hans--soto-blue?style=flat&logo=linkedin)](https://linkedin.com/in/hans-soto)
+[![GitHub](https://img.shields.io/badge/GitHub-hanssoto--cyber-black?style=flat&logo=github)](https://github.com/hanssoto-cyber/Portafolio-soc)
 [![GitHub Pentest](https://img.shields.io/badge/Portafolio_Pentest-Red_Team-red?style=flat&logo=github)](https://github.com/hanssoto-cyber/Portafolio-pentest)
 
 
