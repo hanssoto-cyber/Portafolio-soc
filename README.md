@@ -5,6 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hans--soto-blue?style=flat&logo=linkedin)](https://linkedin.com/in/hans-soto)
 [![GitHub](https://img.shields.io/badge/GitHub-hanssoto--cyber-black?style=flat&logo=github)](https://github.com/hanssoto-cyber/Portafolio-soc)
 
+> 🔴 ¿Buscas mi perfil ofensivo? → [Portafolio Pentest & Auditoría](https://github.com/hanssoto-cyber/Portafolio-pentest)
+
 ---
 
 ## Sobre mí
